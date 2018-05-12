@@ -1,0 +1,43 @@
+_repo: Children-of-Our-Town_26431
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Squire, Maud Hunt
+    alias: Squire, M. H. (Maud Hunt)
+    birthdate: 1873
+    gutenberg_agent_id: '31467'
+    url: http://www.gutenberg.org/2009/agents/31467
+  - agent_name: Mars, E. (Ethel)
+    alias: Mars, Ethel
+    birthdate: 1876
+    gutenberg_agent_id: '31466'
+    url: http://www.gutenberg.org/2009/agents/31466
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, Carolyn
+    alias: Houghton, Carolyn Wells
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '1060'
+    url: http://www.gutenberg.org/2009/agents/1060
+    wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wells
+description: ''
+gutenberg_issued: '2008-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26431'
+  lccn: '02022424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'City and town life -- Juvenile poetry'
+- !lcsh 'Children''s poetry, American'
+- !lcsh 'Children -- Juvenile poetry'
+title: Children of Our Town
+url: http://www.gutenberg.org/ebooks/26431
